@@ -1,0 +1,1 @@
+document.write('<div class="container back_white footer mt-2"><div class="gest_pic"><img src="https://i.ibb.co/X3YHvk5/5-EE63243-CE3-B-4-A7-A-81-F4-C8-A3-C00-C5-A54.jpg" alt="photo_gestionnaire"></div><div class="text_footer"><h5>Mr Sergio gomez Jose</h5><sub>La banque panafricaine</sub></div></div><div class="copyright"><h4>COPYRIGHT 2022</h4></div>')
