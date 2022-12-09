@@ -1,1 +1,0 @@
-document.write('<div class="navbar"><img src="img/bnp-alone.png" alt="logo_banque" /></div>')
